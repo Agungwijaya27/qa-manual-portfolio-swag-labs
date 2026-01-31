@@ -122,10 +122,8 @@ Berdasarkan hasil pengujian manual, seluruh fitur utama dalam scope pengujian be
 
 ## 👤 Author
 
-**Agung Wijaya Temiesela**  
-Target Role: **BFLP IT — QA Track**  
-LinkedIn: *(silakan isi link LinkedIn kamu di sini)*
-
+**Agung Wijaya Temiesela**    
+LinkedIn: *www.linkedin.com/in/agung-wijaya-temiesela-b40927273*
 ---
 
 Terima kasih sudah melihat portofolio saya 🙌
